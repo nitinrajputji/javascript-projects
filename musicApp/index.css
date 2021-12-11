@@ -1,0 +1,80 @@
+.container h1 {
+  background-color: violet;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  color: red;
+  font-family: serif;
+  font-weight: bold;
+}
+
+.mainContent {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  margin: 10px;
+  width: 30%;
+  height: 300px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  background-size: 100% 100%;
+}
+
+.box1 {
+  background-image: url("./image/pexels-andrea-piacquadio-761963.jpg");
+}
+
+.box2 {
+  background-image: url("./image/pexels-elviss-railijs-bitāns-1389429.jpg");
+}
+
+.box3 {
+  background-image: url("./image/pexels-josh-sorenson-995301.jpg");
+}
+
+.box4 {
+  background-image: url("./image/pexels-marcelo-chagas-1876279.jpg");
+}
+
+.box5 {
+  background-image: url("./image/pexels-pixabay-164821.jpg");
+}
+
+.box6 {
+  background-image: url("./image/pexels-pixabay-257904.jpg");
+}
+
+.box7 {
+  background-image: url("./image/pexels-sebastian-ervi-1763075.jpg");
+}
+
+.box8 {
+  background-image: url("./image/pexels-skitterphoto-675960.jpg");
+}
+
+.box9 {
+  background-image: url("./image/pexels-stephen-niemeier-63703.jpg");
+}
+
+.box10 {
+  background-image: url("./image/pexels-suvan-chowdhury-144429.jpg");
+}
+
+.box11 {
+  background-image: url("./image/pexels-vlad-bagacian-1337753.jpg");
+}
+
+.box12 {
+  background-image: url("./image/pexels-wendy-wei-1190297.jpg");
+}
